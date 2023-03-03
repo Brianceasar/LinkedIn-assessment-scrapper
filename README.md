@@ -37,4 +37,4 @@ If you would like to contribute to this project, please follow the steps below:
 
 4. Push to the branch (git push origin feature/my-new-feature).
 
-5.Create a new Pull Request.
+5. Create a new Pull Request.
